@@ -1,27 +1,22 @@
 ### your site title here
 
 title: Jennifer Fuhrer
-description: Software Engineer | Northern Virginia | motto
+description: Software Engineer | Northern Virginia | they/she
 
 baseurl: "/" #name of GitHub repository
 url: "https://jennfuhrer.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "jennifer-fuhrer"
+stackoverflow: "jennfuhrer"
+github: "jennfuhrer"
+mastodon: "jennfuhrer"
 
 
 # Markdown
@@ -48,12 +43,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - socialcyber.md
+      - groovy.md
+      - cuauv.md
 
 sass:
   sass_dir: /assets/css/_sass

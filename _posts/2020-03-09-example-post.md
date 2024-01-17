@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: Home They Brought Her Warrior Dead
+published: false
 ---
 
 Home they brought her warrior dead:  

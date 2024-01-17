@@ -36,9 +36,10 @@
 .fa-github,
 .fa-orcid,
 .fa-researchgate,
-.fa-envelope
-.fa-quora
-.fa-instagram
+.fa-envelope,
+.fa-quora,
+.fa-instagram,
+.fa-mastodon,
 .fa-stack-overflow {
   font-size: 25px;
 }
@@ -61,6 +62,16 @@
   color: #55acee;
   background: #fefefe;
   border-color: #55acee;
+}
+
+.rounded-social-buttons .social-button.mastodon {
+  background: #6364ff;
+}
+
+.rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
+  color: #858afa;
+  background: #fefefe;
+  border-color: #858afa;
 }
 
 .rounded-social-buttons .social-button.linkedin {
