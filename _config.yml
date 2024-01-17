@@ -42,10 +42,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-    order:
-      - 01_socialcyber.md
-      - 02_groovy.md
-      - 03_cuauv.md
 
 sass:
   sass_dir: /assets/css/_sass
