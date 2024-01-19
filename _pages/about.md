@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-View my [RESUME](/assets/resume_2024.pdf)
+View my [RESUME](/assets/jf_resume_2024.pdf)
 
 # Contents
 1. [Experience Summary](#experience-summary)
